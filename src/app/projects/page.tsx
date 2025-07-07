@@ -35,10 +35,8 @@ export default function ProjectsPage() {
 
   return (
     <section className="relative min-h-screen py-20 px-6 bg-neutral-950 text-foreground bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]">
-      <h2 className="text-3xl font-bold text-center mb-12">Projects</h2>
-
-      {/* Toggle All Button */}
-      <div className="sticky top-20 z-10 flex justify-end mb-4">
+      <div className="sticky top-20 z-10 mb-8 max-w-3xl mx-auto px-4 flex justify-between items-center">
+        <h2 className="text-3xl font-bold">Projects</h2>
         <Button
           variant="outline"
           className="text-sm border-white/20 bg-white/10 backdrop-blur-sm"

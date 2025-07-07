@@ -30,7 +30,7 @@ export const webFrameworks = [
     name: "Next.js",
     icon: "/icons/Next.js.svg",
     bg: "#4F4F4F",
-    text: "#111",
+    text: "#B6B6B4",
   },
   {
     name: "Spring Boot",
@@ -84,7 +84,7 @@ export const devOpsTools = [
     name: "GitHub",
     icon: "/icons/GitHub.svg",
     bg: "#3C3C3C",
-    text: "#111",
+    text: "#B6B6B4",
   },
   {
     name: "GitHub Actions",
@@ -111,7 +111,7 @@ export const testingTools = [
     name: "Cypress",
     icon: "/icons/Cypress.svg",
     bg: "#2D2D2D",
-    text: "#111",
+    text: "#B6B6B4",
   },
   {
     name: "Jasmine",

@@ -24,9 +24,6 @@ jobs:
       - name: Build Next.js project
         run: npm run build
 
-      - name: Build static site
-        run: npm run build
-
       - name: Deploy to S3
         run: |
           aws s3 sync ./out s3://$S3_BUCKET_NAME --region $AWS_REGION --delete
