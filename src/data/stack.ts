@@ -1,7 +1,7 @@
 export const languages = [
   {
     name: "TypeScript",
-    icon: "/icons/typescript.svg",
+    icon: "/icons/Typescript.svg",
     bg: "#5B9BD5",
     text: "#111",
   },
