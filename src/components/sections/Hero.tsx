@@ -18,7 +18,7 @@ export default function Hero() {
 
       {/* Content */}
       <h1 className="text-4xl md:text-6xl font-bold mb-4 text-foreground">
-        Hi, I'm Hyunje Kim
+        Hi, I&apos;m Hyunje Kim{" "}
       </h1>
       <p className="text-lg md:text-xl max-w-xl mb-8">
         Full-Stack Developer passionate about building modern, secure, and
