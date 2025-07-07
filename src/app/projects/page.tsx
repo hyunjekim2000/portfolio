@@ -17,6 +17,7 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 import { ChevronDown } from "lucide-react";
+import Image from "next/image";
 
 export default function ProjectsPage() {
   const [expanded, setExpanded] = useState<number[]>([]);
@@ -93,7 +94,7 @@ export default function ProjectsPage() {
                         <Tooltip key={tech.name}>
                           <TooltipTrigger asChild>
                             <div className="w-7 h-7 p-1 rounded-md bg-white flex items-center justify-center">
-                              <img
+                              <Image
                                 src={tech.icon}
                                 alt={tech.name}
                                 width={16}
