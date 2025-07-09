@@ -12,7 +12,7 @@ export const projects: Project[] = [
   {
     name: "Internal LMS @ Antra, Inc.",
     title: "Full Stack Developer",
-    period: "Jul 2023 – Jan 2024",
+    period: "Jun 2024 – Jul 2025",
     summary:
       "Learning management platform used internally for onboarding, training, and assignment tracking.",
     stack: [
@@ -35,7 +35,7 @@ export const projects: Project[] = [
   {
     name: "AI Fitness Assistant @ ORA Co.",
     title: "Full Stack Developer",
-    period: "Mar 2023 – Jun 2023",
+    period: "Nov 2023 – Jun 2024",
     summary:
       "AI-powered fitness assistant that delivers personalized workout and recovery guidance using real-time feedback.",
     stack: [
