@@ -1,3 +1,22 @@
+# 💼 Hyunje Kim's Developer Portfolio
+
+This is my personal developer portfolio built with the latest **Next.js**, styled using **Tailwind CSS** and **Shadcn UI**, and deployed on **AWS S3** with **CloudFront** for global distribution and TLS support. The site showcases my full-stack projects, skills, and professional background. 
+
+You can also check my live site at: https://hyunjekim.dev
+
+---
+
+## 🔧 Tech Stack I used to build & deploy
+
+- **Frontend Framework**: [Next.js](https://nextjs.org/) (App Router)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/), [Shadcn UI](https://ui.shadcn.com/)
+- **Icons**: [Lucide](https://lucide.dev/)
+- **Deployment**: AWS S3 (Static Site Hosting)
+- **CDN & DNS**: AWS CloudFront with TLS (via AWS Certificate Manager)
+- **Domain**: Squarespace (custom domain)
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
